@@ -1,1 +1,3 @@
 /face_recognation_api/settings.py
+/api/static/api/image
+/db.sqlite3

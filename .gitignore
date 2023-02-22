@@ -2,3 +2,4 @@
 /api/static/api/image/
 db.sqlite3
 my-secret.txt
+__pycache__/
